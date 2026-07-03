@@ -1,4 +1,3 @@
-[choilab_homepage_responsive.html](https://github.com/user-attachments/files/29620351/choilab_homepage_responsive.html)
 <!DOCTYPE html>
 <html lang="ko">
 <head>
