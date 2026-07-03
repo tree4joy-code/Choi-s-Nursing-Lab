@@ -1,3 +1,4 @@
+[choilab_homepage_responsive.html](https://github.com/user-attachments/files/29620351/choilab_homepage_responsive.html)
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -284,7 +285,7 @@
             🏫 &nbsp;세명대학교 간호학과<br>
             🔬 &nbsp;Choi's Nursing Lab 지도교수<br>
             ✉️ &nbsp;<a href="mailto:onefruit@semyung.ac.kr">onefruit@semyung.ac.kr</a><br>
-            🌐 &nbsp;세명대학교
+            🌐 &nbsp;세명대학교 충주캠퍼스
           </div>
         </div>
       </div>
@@ -368,12 +369,12 @@
       <div class="member-card">
         <div class="m-avatar">👩‍🎓</div>
         <div class="m-name">모집 중</div>
-        <div class="m-role">박사연구생</div>
+        <div class="m-role">박사과정</div>
       </div>
       <div class="member-card">
         <div class="m-avatar">👨‍🎓</div>
         <div class="m-name">모집 중</div>
-        <div class="m-role">석사연구생</div>
+        <div class="m-role">석사과정</div>
       </div>
       <div class="member-card">
         <div class="m-avatar">🔬</div>
@@ -409,7 +410,7 @@
           <div class="c-icon">📍</div>
           <div>
             <div class="c-label">위치</div>
-            <div class="c-value">충청북도 제천시 세명로 65<br>세명대학교 이학관 3층 309호 </div>
+            <div class="c-value">충청북도 제천시 세명로 65<br>세명대학교 (건물·호실 업데이트 예정)</div>
           </div>
         </div>
         <div class="contact-item">
